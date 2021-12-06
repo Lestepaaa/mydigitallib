@@ -81,7 +81,7 @@ bootswatch: # leave blank or comment out for plain bootstrap
 
 # THEME FONTS
 base-font-size: 1.2em
-text-color: "#696969"
-link-color: "#420420"
+text-color: "#C70039"
+link-color: "#FFC300"
 base-font-family: Roboto
 font-cdn: # add font stylesheet, e.g. <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
